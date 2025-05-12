@@ -1,0 +1,80 @@
+people - [ˈpiːpl] - люди - 0 - 0 - 0
+animals - [ˈænɪməlz] - животные - 0 - 0 - 0
+machines - [məˈʃiːnz] - машины - 0 - 0 - 0
+driver - [ˈdraɪvə] - водитель - 0 - 0 - 0
+passenger - [ˈpæsɪndʒə] - пассажир - 0 - 0 - 0
+easy - [ˈiːzi] - лёгкий - 0 - 0 - 0
+difficult - [ˈdɪfɪkəlt] - сложный - 0 - 0 - 0
+opposite - [ˈɒpəzɪt] - противоположный - 0 - 0 - 0
+safe - [seɪf] - безопасный - 0 - 0 - 0
+dangerous - [ˈdeɪndʒərəs] - опасный - 0 - 0 - 0
+bad - [bæd] - плохой - 0 - 0 - 0
+happen - [ˈhæpən] - происходить - 0 - 0 - 0
+nurse - [nɜːs] - медсестра, медбрат - 0 - 0 - 0
+shop assistant - [ʃɒp əˈsɪstənt] - продавец - 0 - 0 - 0
+police officer - [pəˈliːs ˈɒfɪsə] - полицейский - 0 - 0 - 0
+dentist - [ˈdentɪst] - стоматолог - 0 - 0 - 0
+pilot - [ˈpaɪlət] - пилот - 0 - 0 - 0
+engineer - [ˌendʒɪˈnɪə] - инженер - 0 - 0 - 0
+cleaner - [ˈkliːnə] - уборщик - 0 - 0 - 0
+photographer - [fəˈtɒɡrəfə] - фотограф - 0 - 0 - 0
+taxi driver - [ˈtæksi ˈdraɪvə] - таксист - 0 - 0 - 0
+drive - [draɪv] - водить (машину) - 0 - 0 - 0
+have - [hæv] - иметь - 0 - 0 - 0
+work - [wɜːk] - работать - 0 - 0 - 0
+like - [laɪk] - любить, нравиться - 0 - 0 - 0
+study - [ˈstʌdi] - учиться - 0 - 0 - 0
+speak - [spiːk] - говорить - 0 - 0 - 0
+go - [ɡəʊ] - идти, ехать - 0 - 0 - 0
+start - [stɑːt] - начинать - 0 - 0 - 0
+finish - [ˈfɪnɪʃ] - заканчивать - 0 - 0 - 0
+know - [nəʊ] - знать - 0 - 0 - 0
+eat - [iːt] - есть - 0 - 0 - 0
+watch - [wɒtʃ] - смотреть - 0 - 0 - 0
+use - [juːz] - использовать - 0 - 0 - 0
+listen - [ˈlɪsn] - слушать - 0 - 0 - 0
+useful - [ˈjuːsfl] - полезный - 0 - 0 - 0
+funny - [ˈfʌni] - забавный - 0 - 0 - 0
+test - [test] - тест - 0 - 0 - 0
+exams - [ɪɡˈzæmz] - экзамены - 0 - 0 - 0
+break - [breɪk] - перемена - 0 - 0 - 0
+timetable - [ˈtaɪmteɪbl] - расписание - 0 - 0 - 0
+notes - [nəʊts] - записи - 0 - 0 - 0
+marks - [mɑːks] - оценки - 0 - 0 - 0
+term - [tɜːm] - семестр - 0 - 0 - 0
+studies - [ˈstʌdiz] - учёба - 0 - 0 - 0
+get - [ɡet] - получать - 0 - 0 - 0
+pass - [pɑːs] - сдать (экзамен) - 0 - 0 - 0
+make - [meɪk] - делать - 0 - 0 - 0
+fail - [feɪl] - провалить (экзамен) - 0 - 0 - 0
+places to study - [pleɪsɪz tu ˈstʌdi] - места для учёбы - 0 - 0 - 0
+free time - [friː taɪm] - свободное время - 0 - 0 - 0
+hours - [ˈaʊəz] - часы - 0 - 0 - 0
+week - [wiːk] - неделя - 0 - 0 - 0
+airport - [ˈeəpɔːt] - аэропорт - 0 - 0 - 0
+café - [ˈkæfeɪ] - кафе - 0 - 0 - 0
+late - [leɪt] - поздно - 0 - 0 - 0
+tonight - [təˈnaɪt] - сегодня вечером - 0 - 0 - 0
+certainly - [ˈsɜːtnli] - конечно - 0 - 0 - 0
+sorry - [ˈsɒri] - извините - 0 - 0 - 0
+no problem - [nəʊ ˈprɒbləm] - без проблем - 0 - 0 - 0
+pity - [ˈpɪti] - жалость - 0 - 0 - 0
+important - [ɪmˈpɔːtənt] - важный - 0 - 0 - 0
+chicken - [ˈtʃɪkɪn] - курица - 0 - 0 - 0
+sandwich - [ˈsænwɪdʒ] - сэндвич - 0 - 0 - 0
+neighbour - [ˈneɪbə] - сосед - 0 - 0 - 0
+about - [əˈbaʊt] - о, про - 0 - 0 - 0
+sound - [saʊnd] - звук - 0 - 0 - 0
+friends - [frendz] - друзья - 0 - 0 - 0
+meet - [miːt] - встречать(ся) - 0 - 0 - 0
+new - [njuː] - новый - 0 - 0 - 0
+travel - [ˈtrævl] - путешествовать - 0 - 0 - 0
+tourism - [ˈtʊərɪzəm] - туризм - 0 - 0 - 0
+different reason - [ˈdɪfrənt ˈriːzn] - разная причина - 0 - 0 - 0
+grammar - [ˈɡræmə] - грамматика - 0 - 0 - 0
+lessons - [ˈlesnz] - уроки - 0 - 0 - 0
+read - [riːd] - читать - 0 - 0 - 0
+write - [raɪt] - писать - 0 - 0 - 0
+listen - [ˈlɪsn] - слушать - 0 - 0 - 0
+timetable - [ˈtaɪmteɪbl] - расписание - 0 - 0 - 0
+need - [niːd] - нуждаться - 0 - 0 - 0

@@ -1,0 +1,62 @@
+achievement -  [əˈʧiːvmənt] - достижение - 0 - 0 - 0
+bright -  [braɪt] - блестящий, умный - 0 - 0 - 0
+brilliant at -  [ˈbrɪljənt æt] - гениальный в - 0 - 0 - 0
+confident at -  [ˈkɒnfɪdənt æt] - уверенный в - 0 - 0 - 0
+determined -  [dɪˈtɜːmɪnd] - полный решимости - 0 - 0 - 0
+to give up -  [ɡɪv ʌp] - сдаваться - 0 - 0 - 0
+intelligent -  [ɪnˈtɛlɪdʒənt] - умный - 0 - 0 - 0
+a positive attitude -  [ˈpɒzətɪv ˈætɪtjuːd] - позитивный настрой, позитивное отношение - 0 - 0 - 0
+success -  [səkˈsɛs] - успех - 0 - 0 - 0
+successful -  [səkˈsɛsfl] - успешный - 0 - 0 - 0
+talented at -  [ˈtæləntɪd æt] - талантливый в - 0 - 0 - 0
+amused -  [əˈmjuːzd] - радостный, удивленный - 0 - 0 - 0
+amusing -  [əˈmjuːzɪŋ] - забавный, смешной - 0 - 0 - 0
+bored -  [bɔːd] - скучающий - 0 - 0 - 0
+boring -  [ˈbɔːrɪŋ] - скучный - 0 - 0 - 0
+depressed -  [dɪˈprɛst] - подавленный - 0 - 0 - 0
+depressing -  [dɪˈprɛsɪŋ] - удручающий, депрессивный - 0 - 0 - 0
+disappointed -  [ˌdɪsəˈpɔɪntɪd] - разочарованный - 0 - 0 - 0
+disappointing -  [ˌdɪsəˈpɔɪntɪŋ] - разочаровывающий, неудачный - 0 - 0 - 0
+fascinated -  [ˈfæsɪneɪtɪd] - очарованный - 0 - 0 - 0
+fascinating -  [ˈfæsɪneɪtɪŋ] - очаровательный - 0 - 0 - 0
+relaxed -  [rɪˈlækst] - расслабленный - 0 - 0 - 0
+relaxing -  [rɪˈlæksɪŋ] - расслабляющий - 0 - 0 - 0
+satisfied -  [ˈsætɪsfaɪd] - довольный - 0 - 0 - 0
+satisfying -  [ˈsætɪsfaɪɪŋ] - удовлетворяющий - 0 - 0 - 0
+terrified -  [ˈtɛrɪfaɪd] - испуганный - 0 - 0 - 0
+terrifying -  [ˈtɛrɪfaɪɪŋ] - ужасающий - 0 - 0 - 0
+active -  [ˈæktɪv] - активный - 0 - 0 - 0
+lively -  [ˈlaɪvli] - живой, жизнерадостный - 0 - 0 - 0
+sensitive -  [ˈsɛnsɪtɪv] - чувствительный - 0 - 0 - 0
+shy -  [ʃaɪ] - застенчивый, стеснительный - 0 - 0 - 0
+sociable -  [ˈsəʊʃəbl] - общительный - 0 - 0 - 0
+talkative -  [ˈtɔːkətɪv] - разговорчивый - 0 - 0 - 0
+so far -  [səʊ fɑː] - до сих пор, до настоящего момента - 0 - 0 - 0
+and so on -  [ænd səʊ ɒn] -  и так далее - 0 - 0 - 0
+or so -  [ɔːr səʊ] - или около, примерно - 0 - 0 - 0
+to make a fortune -  [meɪk ə ˈfɔːtʃən] - разбогатеть - 0 - 0 - 0
+newsreader -  [ˈnjuːzˌriːdə] - диктор, ведущий новостей - 0 - 0 - 0
+success story -  [səkˈsɛs ˈstɔːri] - история успеха - 0 - 0 - 0
+to look into smth -  [lʊk ˈɪntuː ˈsʌmθɪŋ] - изучить - 0 - 0 - 0
+determination -  [dɪˌtɜːmɪˈneɪʃən] - решимость, стремление - 0 - 0 - 0
+to affect -  [əˈfɛkt] - влиять на - 0 - 0 - 0
+to make a quick decision -  [meɪk ə kwɪk dɪˈsɪʒən] - быстро принимать решения - 0 - 0 - 0
+to come up with an idea -  [kʌm ʌp wɪð æn aɪˈdɪə] - предложить идею - 0 - 0 - 0
+Can I ask a big favour? -  [kæn aɪ ɑːsk ə bɪɡ ˈfeɪvə] - Могу я попросить вас об одолжении? - 0 - 0 - 0
+Do you need a hand? -  [duː juː niːd ə hænd] - Тебе нужна помощь? - 0 - 0 - 0
+in return -  [ɪn rɪˈtɜːn] - взамен, в свою очередь - 0 - 0 - 0
+outgoing -  [ˈaʊtɡəʊɪŋ] - коммуникабельный - 0 - 0 - 0
+public speaking -  [ˈpʌblɪk ˈspiːkɪŋ] - публичное выступление - 0 - 0 - 0
+well-written book -  [wɛl ˈrɪtn bʊk] - хорошо написанная книга - 0 - 0 - 0
+workplace -  [ˈwɜːkpleɪs] - место работы - 0 - 0 - 0
+shared offices -  [ʃɛəd ˈɒfɪsɪz] - общие офисы - 0 - 0 - 0
+civil rights movement -  [ˈsɪvəl raɪts ˈmuːvmənt] - движение по защите прав человека - 0 - 0 - 0
+highly successful actor -  [ˈhaɪli səkˈsɛsfʊl ˈæktə] - очень успешный актёр - 0 - 0 - 0
+to support charity -  [səˈpɔːt ˈʧærɪti] - поддерживать благотворительность - 0 - 0 - 0
+co-founder -  [ˌkəʊˈfaʊndə] - один из основателей - 0 - 0 - 0
+to come up with great ideas -  [kʌm ʌp wɪð ɡreɪt aɪˈdɪəz] - предложить, выдвинуть отличные идеи - 0 - 0 - 0
+to rent a room -  [rɛnt ə ruːm] - снимать комнату - 0 - 0 - 0
+to send a reply -  [sɛnd ə rɪˈplaɪ] - отправить ответ - 0 - 0 - 0
+duties -  [ˈdjuːtiz] - обязанности - 0 - 0 - 0
+personal profile -  [ˈpɜːsənl ˈprəʊfaɪl] - личный профиль - 0 - 0 - 0
+volunteer -  [ˌvɒlənˈtɪə] - доброволец - 0 - 0 - 0

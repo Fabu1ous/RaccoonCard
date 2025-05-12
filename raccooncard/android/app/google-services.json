@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "585925027078",
+    "project_id": "raccooncard",
+    "storage_bucket": "raccooncard.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585925027078:android:72fd0f82a2afd6c63aea87",
+        "android_client_info": {
+          "package_name": "com.fabulous.raccooncard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8WoQa63pW_SXDhi8zddRCyu_Og4Inz8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

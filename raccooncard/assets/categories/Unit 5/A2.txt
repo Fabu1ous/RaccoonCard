@@ -1,0 +1,57 @@
+town - [taʊn] - город (небольшой) - 0 - 0 - 0
+city - [ˈsɪti] - город (крупный) - 0 - 0 - 0
+place - [pleɪs] - место - 0 - 0 - 0
+river - [ˈrɪvə] - река - 0 - 0 - 0
+metro station - [ˈmetrəʊ ˈsteɪʃn] - станция метро - 0 - 0 - 0
+park - [pɑːk] - парк - 0 - 0 - 0
+market - [ˈmɑːkɪt] - рынок - 0 - 0 - 0
+shop - [ʃɒp] - магазин - 0 - 0 - 0
+apartment - [əˈpɑːtmənt] - квартира - 0 - 0 - 0
+furniture - [ˈfɜːnɪtʃə] - мебель - 0 - 0 - 0
+mirror - [ˈmɪrə] - зеркало - 0 - 0 - 0
+washing machine - [ˈwɒʃɪŋ məˈʃiːn] - стиральная машина - 0 - 0 - 0
+bookcase - [ˈbʊkkeɪs] - книжный шкаф - 0 - 0 - 0
+curtains - [ˈkɜːtnz] - шторы - 0 - 0 - 0
+sink - [sɪŋk] - раковина - 0 - 0 - 0
+cupboard - [ˈkʌbəd] - шкаф - 0 - 0 - 0
+armchair - [ˈɑːmtʃeə] - кресло - 0 - 0 - 0
+wardrobe - [ˈwɔːdrəʊb] - шкаф для одежды - 0 - 0 - 0
+lamp - [læmp] - лампа - 0 - 0 - 0
+chest of drawers - [tʃest əv drɔːz] - комод - 0 - 0 - 0
+cooker - [ˈkʊkə] - плита - 0 - 0 - 0
+sofa - [ˈsəʊfə] - диван - 0 - 0 - 0
+bed - [bed] - кровать - 0 - 0 - 0
+chair - [tʃeə] - стул - 0 - 0 - 0
+bookcase - [ˈbʊkkeɪs] - книжный шкаф - 0 - 0 - 0
+kitchen - [ˈkɪtʃɪn] - кухня - 0 - 0 - 0
+living room - [ˈlɪvɪŋ ruːm] - гостиная - 0 - 0 - 0
+bathroom - [ˈbɑːθruːm] - ванная - 0 - 0 - 0
+bedroom - [ˈbedruːm] - спальня - 0 - 0 - 0
+sister - [ˈsɪstə] - сестра - 0 - 0 - 0
+parents - [ˈpeərənts] - родители - 0 - 0 - 0
+mother - [ˈmʌðə] - мать - 0 - 0 - 0
+father - [ˈfɑːðə] - отец - 0 - 0 - 0
+brother - [ˈbrʌðə] - брат - 0 - 0 - 0
+chemist - [ˈkemɪst] - аптека - 0 - 0 - 0
+bank - [bæŋk] - банк - 0 - 0 - 0
+hotel - [həʊˈtel] - отель - 0 - 0 - 0
+along the road - [əˈlɒŋ ðə rəʊd] - вдоль дороги - 0 - 0 - 0
+right - [raɪt] - направо, правый - 0 - 0 - 0
+left - [left] - налево, левый - 0 - 0 - 0
+go - [ɡəʊ] - идти - 0 - 0 - 0
+turn - [tɜːn] - повернуть - 0 - 0 - 0
+get - [ɡet] - добраться - 0 - 0 - 0
+can - [kæn] - мочь - 0 - 0 - 0
+come - [kʌm] - приходить - 0 - 0 - 0
+museum - [mjuˈziːəm] - музей - 0 - 0 - 0
+football stadium - [ˈfʊtbɔːl ˈsteɪdiəm] - футбольный стадион - 0 - 0 - 0
+cinema - [ˈsɪnəmə] - кинотеатр - 0 - 0 - 0
+clubs - [klʌbz] - клубы - 0 - 0 - 0
+where - [weə] - где - 0 - 0 - 0
+what - [wɒt] - что - 0 - 0 - 0
+near - [nɪə] - рядом - 0 - 0 - 0
+right - [raɪt] - правильный, правый - 0 - 0 - 0
+left - [left] - левый - 0 - 0 - 0
+school - [skuːl] - школа - 0 - 0 - 0
+square - [skweə] - площадь - 0 - 0 - 0
+bridge - [brɪdʒ] - мост - 0 - 0 - 0

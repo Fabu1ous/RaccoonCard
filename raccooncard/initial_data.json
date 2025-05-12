@@ -1,0 +1,121 @@
+{
+    "categories": [
+        {
+            "name": "Общение",
+            "words": [
+                {
+                    "word": "to argue",
+                    "transcription": "ˈɑːɡjuː",
+                    "translation": "спорить",
+                    "level": "B1+",
+                    "isLearned": false,
+                    "isBlocked": false
+                },
+                {
+                    "word": "to complain",
+                    "transcription": "kəmˈpleɪn",
+                    "translation": "жаловаться",
+                    "level": "B1+",
+                    "isLearned": false,
+                    "isBlocked": false
+                },
+                {
+                    "word": "to encourage",
+                    "transcription": "ɪnˈkʌrɪdʒ",
+                    "translation": "поощрять, призывать",
+                    "level": "B1+",
+                    "isLearned": false,
+                    "isBlocked": false
+                },
+                {
+                    "word": "to express feelings",
+                    "transcription": "ɪkˈsprɛs ˈfiːlɪŋz",
+                    "translation": "выражать чувства",
+                    "level": "B1+",
+                    "isLearned": false,
+                    "isBlocked": false
+                },
+                {
+                    "word": "face to face",
+                    "transcription": "feɪs tə feɪs",
+                    "translation": "один на один, лично",
+                    "level": "B1+",
+                    "isLearned": false,
+                    "isBlocked": false
+                },
+                {
+                    "word": "to give a presentation",
+                    "transcription": "ɡɪv ə ˌprɛzənˈteɪʃən",
+                    "translation": "выступить с докладом",
+                    "level": "B1+",
+                    "isLearned": false,
+                    "isBlocked": false
+                },
+                {
+                    "word": "to give opinions",
+                    "transcription": "ɡɪv əˈpɪnjənz",
+                    "translation": "высказывать мнение",
+                    "level": "B1+",
+                    "isLearned": false,
+                    "isBlocked": false
+                },
+                {
+                    "word": "to greet",
+                    "transcription": "ɡriːt",
+                    "translation": "приветствовать",
+                    "level": "B1+",
+                    "isLearned": false,
+                    "isBlocked": false
+                },
+                {
+                    "word": "to insist",
+                    "transcription": "ɪnˈsɪst",
+                    "translation": "настаивать",
+                    "level": "B1+",
+                    "isLearned": false,
+                    "isBlocked": false
+                },
+                {
+                    "word": "to interview",
+                    "transcription": "ˈɪntəvjuː",
+                    "translation": "проводить собеседование, опрашивать",
+                    "level": "B1+",
+                    "isLearned": false,
+                    "isBlocked": false
+                },
+                {
+                    "word": "to keep in touch",
+                    "transcription": "kiːp ɪn tʌtʃ",
+                    "translation": "поддерживать отношения",
+                    "level": "B1+",
+                    "isLearned": false,
+                    "isBlocked": false
+                },
+                {
+                    "word": "to persuade",
+                    "transcription": "pəˈsweɪd",
+                    "translation": "убеждать",
+                    "level": "B1+",
+                    "isLearned": false,
+                    "isBlocked": false
+                },
+                {
+                    "word": "to speak in public",
+                    "transcription": "spiːk ɪn ˈpʌblɪk",
+                    "translation": "выступать публично, перед аудиторией",
+                    "level": "B1+",
+                    "isLearned": false,
+                    "isBlocked": false
+                },
+                {
+                    "word": "to tell a joke",
+                    "transcription": "tɛl ə dʒəʊk",
+                    "translation": "рассказать шутку",
+                    "level": "B1+",
+                    "isLearned": false,
+                    "isBlocked": false
+                }
+            ]
+        }
+    ]
+}

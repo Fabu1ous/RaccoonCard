@@ -1,0 +1,54 @@
+conservation project -  [ˌkɒnsəˈveɪʃən ˈprɒdʒɛkt] - проект по охране окружающей среды - 0 - 0 - 0
+creature -  [ˈkriːtʃə] - существо - 0 - 0 - 0
+damage -  [ˈdæmɪdʒ] - ущерб - 0 - 0 - 0
+to destroy -  [dɪsˈtrɔɪ] - разрушать - 0 - 0 - 0
+endangered -  [ɪnˈdeɪndʒəd] - находящийся под угрозой исчезновения, исчезающий - 0 - 0 - 0
+environment -  [ɪnˈvaɪrənmənt] - окружающая среда - 0 - 0 - 0
+environmentally friendly -  [ɪnˌvaɪərənˈmɛntəli ˈfrɛndli] - безвредный для окружающей среды, экологически чистый - 0 - 0 - 0
+to limit -  [ˈlɪmɪt] - ограничивать - 0 - 0 - 0
+local -  [ˈləʊkəl] - местный - 0 - 0 - 0
+natural -  [ˈnætʃərəl] - естественный - 0 - 0 - 0
+pollution -  [pəˈluːʃən] - загрязнение - 0 - 0 - 0
+to prevent -  [prɪˈvɛnt] - предотвращать - 0 - 0 - 0
+to protect -  [prəˈtɛkt] - защищать - 0 - 0 - 0
+to recycle -  [rɪˈsaɪkl] - перерабатывать, утилизировать - 0 - 0 - 0
+to save -  [seɪv] - спасать - 0 - 0 - 0
+species -  [ˈspiːʃiːz] - вид - 0 - 0 - 0
+to survive -  [səˈvaɪv] - выжить - 0 - 0 - 0
+wildlife -  [ˈwaɪldlaɪf] - дикая природа, животный мир - 0 - 0 - 0
+branch -  [brɑːnʧ] - ветвь - 0 - 0 - 0
+feather -  [ˈfeðə] - перо - 0 - 0 - 0
+fur -  [fɜː] - мех - 0 - 0 - 0
+petals -  [ˈpɛtəlz] - лепестки - 0 - 0 - 0
+scales -  [skeɪlz] - чешуя - 0 - 0 - 0
+tail -  [teɪl] - хвост - 0 - 0 - 0
+web -  [wɛb] - паутина - 0 - 0 - 0
+bay -  [beɪ] - залив - 0 - 0 - 0
+cave -  [keɪv] - пещера - 0 - 0 - 0
+coast -  [kəʊst] - побережье - 0 - 0 - 0
+desert -  [ˈdɛzət] - пустыня - 0 - 0 - 0
+rainforest -  [ˈreɪnˌfɒrɪst] - тропический лес - 0 - 0 - 0
+stream -  [striːm] - ручей - 0 - 0 - 0
+valley -  [ˈvæli] - долина - 0 - 0 - 0
+waterfall -  [ˈwɔːtəfɔːl] - водопад - 0 - 0 - 0
+to be aware of a problem -  [bi əˈweə ɒv ə ˈprɒbləm] - осознавать проблему - 0 - 0 - 0
+to cause a problem -  [kɔːz ə ˈprɒbləm] - вызвать проблему - 0 - 0 - 0
+to face a problem -  [feɪs ə ˈprɒbləm] - столкнуться с проблемой - 0 - 0 - 0
+to fix a problem -  [fɪks ə ˈprɒbləm] - устранить проблему - 0 - 0 - 0
+to solve a problem -  [sɒlv ə ˈprɒbləm] - решить проблему - 0 - 0 - 0
+to tackle a problem -  [ˈtækəl ə ˈprɒbləm] - биться над решением проблемы - 0 - 0 - 0
+charity -  [ˈʧærɪti] - благотворительность - 0 - 0 - 0
+to run a project -  [rʌn ə ˈprɒdʒɛkt] - руководить проектом - 0 - 0 - 0
+long-term -  [lɒŋ tɜːm] - долгосрочный - 0 - 0 - 0
+chimp -  [ʧɪmp] - шимпанзе - 0 - 0 - 0
+unique biodiversity -  [juːˈniːk baɪəʊˈdaɪvərsɪti] - уникальное биоразнообразие - 0 - 0 - 0
+reserve -  [rɪˈzɜːv] - заповедник - 0 - 0 - 0
+mammal species -  [ˈmæməl ˈspiːʃiːz] - виды млекопитающих - 0 - 0 - 0
+tribal community -  [ˈtraɪbəl kəˈmjunɪti] - племенная община - 0 - 0 - 0
+to find the balance between -  [faɪnd ðə ˈbælənсɪ bɪˈtwiːn] - найти баланс между - 0 - 0 - 0
+dam -  [dæm] - дамба - 0 - 0 - 0
+conservationist -  [ˌkɒnsəˈveɪʃənɪst] - защитник природы - 0 - 0 - 0
+lynx -  [lɪŋks] - рысь - 0 - 0 - 0
+wetland -  [ˈwɛtlænd] - водно-болотные угодья - 0 - 0 - 0
+habitat -  [ˈhæbɪtæt] - среда обитания - 0 - 0 - 0
+threat -  [θrɛt] - угроза - 0 - 0 - 0

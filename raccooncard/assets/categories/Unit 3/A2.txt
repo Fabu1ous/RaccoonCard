@@ -1,0 +1,46 @@
+bus - [bʌs] - автобус - 0 - 0 - 0
+train - [treɪn] - поезд - 0 - 0 - 0
+email - [ˈiːmeɪl] - электронная почта - 0 - 0 - 0
+newspaper - [ˈnjuːzpeɪpə] - газета - 0 - 0 - 0
+sometimes - [ˈsʌmtaɪmz] - иногда - 0 - 0 - 0
+usually - [ˈjuːʒuəli] - обычно - 0 - 0 - 0
+often - [ˈɒfn] - часто - 0 - 0 - 0
+always - [ˈɔːlweɪz] - всегда - 0 - 0 - 0
+Spanish lesson - [ˈspænɪʃ ˈlesn] - урок испанского - 0 - 0 - 0
+band practice - [bænd ˈpræktɪs] - репетиция группы - 0 - 0 - 0
+work late - [wɜːk leɪt] - работать допоздна - 0 - 0 - 0
+volleyball training - [ˈvɒlibɔːl ˈtreɪnɪŋ] - тренировка по волейболу - 0 - 0 - 0
+twice - [twaɪs] - дважды - 0 - 0 - 0
+every - [ˈevri] - каждый - 0 - 0 - 0
+once - [wʌns] - один раз - 0 - 0 - 0
+computer - [kəmˈpjuːtə] - компьютер - 0 - 0 - 0
+smartphone - [ˈsmɑːtfəʊn] - смартфон - 0 - 0 - 0
+tablet - [ˈtæblət] - планшет - 0 - 0 - 0
+e-reader - [ˈiː ˈriːdə] - электронная книга - 0 - 0 - 0
+satnav - [ˈsætnæv] - навигатор - 0 - 0 - 0
+keyboard - [ˈkiːbɔːd] - клавиатура - 0 - 0 - 0
+printer - [ˈprɪntə] - принтер - 0 - 0 - 0
+headphones - [ˈhedfəʊnz] - наушники - 0 - 0 - 0
+camera - [ˈkæmərə] - камера - 0 - 0 - 0
+laptop - [ˈlæptɒp] - ноутбук - 0 - 0 - 0
+great - [ɡreɪt] - великолепный - 0 - 0 - 0
+good - [ɡʊd] - хороший - 0 - 0 - 0
+love - [lʌv] - любимый - 0 - 0 - 0
+short - [ʃɔːt] - короткий - 0 - 0 - 0
+loud - [laʊd] - громкий - 0 - 0 - 0
+long - [lɒŋ] - длинный - 0 - 0 - 0
+weekend - [ˈwiːkend] - выходные - 0 - 0 - 0
+together - [təˈɡeðə] - вместе - 0 - 0 - 0
+England - [ˈɪŋɡlənd] - Англия - 0 - 0 - 0
+Sweden - [ˈswiːdn] - Швеция - 0 - 0 - 0
+France - [frɑːns] - Франция - 0 - 0 - 0
+Germany - [ˈdʒɜːməni] - Германия - 0 - 0 - 0
+Italy - [ˈɪtəli] - Италия - 0 - 0 - 0
+Turkey - [ˈtɜːki] - Турция - 0 - 0 - 0
+place - [pleɪs] - место - 0 - 0 - 0
+date - [deɪt] - дата - 0 - 0 - 0
+invite - [ɪnˈvaɪt] - приглашать - 0 - 0 - 0
+ask - [ɑːsk] - спрашивать - 0 - 0 - 0
+give - [ɡɪv] - давать - 0 - 0 - 0
+talk - [tɔːk] - разговаривать - 0 - 0 - 0
+holiday - [ˈhɒlədeɪ] - отпуск, каникулы - 0 - 0 - 0

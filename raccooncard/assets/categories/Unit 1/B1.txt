@@ -1,0 +1,54 @@
+ugly - [ˈʌɡli] - уродливый - 0 - 0 - 0
+serious - [ˈsɪəriəs] - серьезный - 0 - 0 - 0
+rude - [ruːd] - грубый - 0 - 0 - 0
+alright - [ɔːlˈraɪt] - нормально, в порядке - 0 - 0 - 0
+silly - [ˈsɪli] - глупый - 0 - 0 - 0
+boring - [ˈbɔːrɪŋ] - скучный - 0 - 0 - 0
+strange - [streɪndʒ] - странный - 0 - 0 - 0
+gorgeous - [ˈɡɔːdʒəs] - великолепный, прекрасный - 0 - 0 - 0
+horrible - [ˈhɒrəbəl] - ужасный - 0 - 0 - 0
+lovely - [ˈlʌvli] - милый, приятный - 0 - 0 - 0
+amazing - [əˈmeɪzɪŋ] - удивительный - 0 - 0 - 0
+awful - [ˈɔːfəl] - ужасный - 0 - 0 - 0
+perfect - [ˈpɜːfɪkt] - идеальный - 0 - 0 - 0
+really - [ˈrɪəli] - действительно - 0 - 0 - 0
+especially - [ɪˈspeʃəli] - особенно - 0 - 0 - 0
+absolutely - [ˌæbsəˈluːtli] - абсолютно - 0 - 0 - 0
+pretty - [ˈprɪti] - довольно - 0 - 0 - 0
+particularly - [pəˈtɪkjʊləli] - особенно - 0 - 0 - 0
+fairly - [ˈfeəli] - достаточно, справедливо - 0 - 0 - 0
+backpack - [ˈbækpæk] - рюкзак - 0 - 0 - 0
+foreign currency - [ˈfɒrɪn ˈkʌrənsi] - иностранная валюта - 0 - 0 - 0
+guidebook - [ˈɡaɪdbʊk] - путеводитель - 0 - 0 - 0
+map - [mæp] - карта - 0 - 0 - 0
+passport - [ˈpɑːspɔːt] - паспорт - 0 - 0 - 0
+suitcase - [ˈsuːtkeɪs] - чемодан - 0 - 0 - 0
+sunglasses - [ˈsʌnɡlɑːsɪz] - солнечные очки - 0 - 0 - 0
+suntan lotion - [ˈsʌntæn ˈləʊʃən] - солнцезащитный крем - 0 - 0 - 0
+sightseeing - [ˈsaɪtsiːɪŋ] - осмотр достопримечательностей - 0 - 0 - 0
+visa - [ˈviːzə] - виза - 0 - 0 - 0
+campsite - [ˈkæmpsaɪt] - кемпинг - 0 - 0 - 0
+souvenirs - [ˌsuːvəˈnɪəz] - сувениры - 0 - 0 - 0
+money accommodation - [əˌkɒməˈdeɪʃən ɪkˈspɛnsɪz] - деньги на проживание - 0 - 0 - 0
+hotel - [həʊˈtel] - отель - 0 - 0 - 0
+hostel - [ˈhɒstl] - хостел - 0 - 0 - 0
+adventure - [ədˈvɛntʃə] - приключение - 0 - 0 - 0
+luggage - [ˈlʌɡɪdʒ] - багаж - 0 - 0 - 0
+travelled around - [ˈtrævld əˈraʊnd] - путешествовал по - 0 - 0 - 0
+set off - [set ɒf] - отправился в путь - 0 - 0 - 0
+took off - [tʊk ɒf] - взлетел - 0 - 0 - 0
+landed on - [ˈlændɪd ɒn] - приземлился на - 0 - 0 - 0
+hitchhiked - [ˈhɪtʃhaɪkt] - путешествовал автостопом - 0 - 0 - 0
+gave us - [ɡeɪv ʌs] - дал нам - 0 - 0 - 0
+boarded a train - [ˈbɔːdɪd ə treɪn] - сел на поезд - 0 - 0 - 0
+changed - [tʃeɪndʒd] - пересел, изменил маршрут - 0 - 0 - 0
+got to - [ɡɒt tuː] - добрался до - 0 - 0 - 0
+broke down - [brəʊk daʊn] - сломался - 0 - 0 - 0
+turbulence - [ˈtɜːbjələns] - турбулентность - 0 - 0 - 0
+had a crash - [hæd ə kræʃ] - попал в аварию - 0 - 0 - 0
+traffic jam - [ˈtræfɪk dʒæm] - пробка на дороге - 0 - 0 - 0
+something wrong with - [ˈsʌmθɪŋ rɒŋ wɪð] - что-то не так с - 0 - 0 - 0
+a strike - [ə straɪk] - забастовка - 0 - 0 - 0
+got lost - [ɡɒt lɒst] - потерялся - 0 - 0 - 0
+a long queue - [ə lɒŋ kjuː] - длинная очередь - 0 - 0 - 0
+a delay - [ə dɪˈleɪ] - задержка - 0 - 0 - 0

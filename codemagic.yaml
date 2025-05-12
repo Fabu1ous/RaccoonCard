@@ -1,0 +1,44 @@
+workflows:
+    flutter-ios:
+        name: Flutter iOS
+        max_build_duration: 120
+        instance_type: mac_mini_m2
+        environment:
+          flutter: stable
+          xcode: latest
+          cocoapods: default
+          groups:
+            - ios_credentials
+          vars:
+            # Modify bundle identifier to match your app
+            BUNDLE_ID: "com.example.raccooncard"
+        scripts:
+          - name: Get Flutter packages
+            script: |
+              flutter packages pub get
+          - name: Install CocoaPods dependencies
+            script: |
+              cd ios && pod install
+          - name: Set up keychain to be used for code signing
+            script: |
+              keychain initialize
+          - name: Fetch signing files
+            script: |
+              # Use with a self-managed Apple Developer account
+              # Configure these in your environment variables
+              app-store-connect fetch-signing-files "$BUNDLE_ID" --type IOS_APP_ADHOC --create
+          - name: Configure code signing settings
+            script: |
+              # For automatic code signing configuration using a provisioning profile
+              xcode-project use-profiles --project ios/Runner.xcodeproj
+          - name: Flutter build iOS
+            script: |
+              flutter build ipa --export-options-plist=ios/ExportOptions.plist
+        artifacts:
+          - build/ios/ipa/*.ipa
+        publishing:
+          email:
+            recipients:
+              - youremail@example.com # Replace with your email
+            notify:
+              success: true

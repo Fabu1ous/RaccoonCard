@@ -1,0 +1,44 @@
+heavier - [ˈhevɪə] - тяжелее - 0 - 0 - 0
+better - [ˈbetə] - лучше - 0 - 0 - 0
+bigger - [ˈbɪɡə] - больше - 0 - 0 - 0
+lighter - [ˈlaɪtə] - легче - 0 - 0 - 0
+same - [seɪm] - такой же - 0 - 0 - 0
+different - [ˈdɪfrənt] - другой, различный - 0 - 0 - 0
+short - [ʃɔːt] - короткий - 0 - 0 - 0
+long - [lɒŋ] - длинный - 0 - 0 - 0
+irregular - [ɪˈreɡjʊlə] - неправильный - 0 - 0 - 0
+download - [ˈdaʊnləʊd] - скачивать - 0 - 0 - 0
+click on - [klɪk ɒn] - нажимать на - 0 - 0 - 0
+visit - [ˈvɪzɪt] - посещать - 0 - 0 - 0
+save - [seɪv] - сохранять - 0 - 0 - 0
+website - [ˈwebsaɪt] - веб-сайт - 0 - 0 - 0
+document - [ˈdɒkjʊmənt] - документ - 0 - 0 - 0
+file - [faɪl] - файл - 0 - 0 - 0
+link - [lɪŋk] - ссылка - 0 - 0 - 0
+computer - [kəmˈpjuːtə] - компьютер - 0 - 0 - 0
+email - [ˈiːmeɪl] - электронная почта - 0 - 0 - 0
+Greek - [ɡriːk] - греческий - 0 - 0 - 0
+Italian - [ɪˈtæliən] - итальянский - 0 - 0 - 0
+English - [ˈɪŋɡlɪʃ] - английский - 0 - 0 - 0
+French - [frentʃ] - французский - 0 - 0 - 0
+Arabic - [ˈærəbɪk] - арабский - 0 - 0 - 0
+Basque - [bɑːsk] - баскский - 0 - 0 - 0
+Japanese - [ˌdʒæpəˈniːz] - японский - 0 - 0 - 0
+Russian - [ˈrʌʃən] - русский - 0 - 0 - 0
+Spanish - [ˈspænɪʃ] - испанский - 0 - 0 - 0
+best - [best] - лучший - 0 - 0 - 0
+easiest - [ˈiːziɪst] - самый легкий - 0 - 0 - 0
+musical - [ˈmjuːzɪk(ə)l] - музыкальный - 0 - 0 - 0
+hardest - [ˈhɑːdɪst] - самый сложный - 0 - 0 - 0
+fast - [fɑːst] - быстрый - 0 - 0 - 0
+heavy - [ˈhevi] - тяжелый - 0 - 0 - 0
+old - [əʊld] - старый - 0 - 0 - 0
+so first - [səʊ fɜːst] - итак, сначала - 0 - 0 - 0
+like this - [laɪk ðɪs] - вот так - 0 - 0 - 0
+is that right - [ɪz ðæt raɪt] - это правильно? - 0 - 0 - 0
+of the way - [ɒv ðə weɪ] - с дороги, в стороне - 0 - 0 - 0
+of the evening - [ɒv ðɪ ˈiːvnɪŋ] - вечером - 0 - 0 - 0
+of my friends - [ɒv maɪ frendz] - из моих друзей - 0 - 0 - 0
+most of the time - [məʊst ɒv ðə taɪm] - большую часть времени - 0 - 0 - 0
+most of all - [məʊst ɒv ɔːl] - больше всего - 0 - 0 - 0
+most days - [məʊst deɪz] - большинство дней - 0 - 0 - 0

@@ -1,0 +1,50 @@
+breakfast - [ˈbrekfəst] - завтрак - 0 - 0 - 0
+lunch - [lʌntʃ] - обед - 0 - 0 - 0
+dinner - [ˈdɪnə] - ужин - 0 - 0 - 0
+fruit - [fruːt] - фрукты - 0 - 0 - 0
+vegetables - [ˈvedʒtəblz] - овощи - 0 - 0 - 0
+tomatoes - [təˈmɑːtəʊz] - помидоры - 0 - 0 - 0
+cheese - [tʃiːz] - сыр - 0 - 0 - 0
+beans - [biːnz] - бобы - 0 - 0 - 0
+lemons - [ˈlemənz] - лимоны - 0 - 0 - 0
+chicken - [ˈtʃɪkɪn] - курица - 0 - 0 - 0
+mushrooms - [ˈmʌʃruːmz] - грибы - 0 - 0 - 0
+onions - [ˈʌnjənz] - лук - 0 - 0 - 0
+lamb - [læm] - баранина - 0 - 0 - 0
+pears - [peəz] - груши - 0 - 0 - 0
+steak - [steɪk] - стейк - 0 - 0 - 0
+carrots - [ˈkærəts] - морковь - 0 - 0 - 0
+grapes - [ɡreɪps] - виноград - 0 - 0 - 0
+potato - [pəˈteɪtəʊ] - картофель - 0 - 0 - 0
+fish - [fɪʃ] - рыба - 0 - 0 - 0
+lemon - [ˈlemən] - лимон - 0 - 0 - 0
+chocolate - [ˈtʃɒklət] - шоколад - 0 - 0 - 0
+yoghurt - [ˈjɒɡət] - йогурт - 0 - 0 - 0
+butter - [ˈbʌtə] - масло - 0 - 0 - 0
+egg - [eɡ] - яйцо - 0 - 0 - 0
+rice - [raɪs] - рис - 0 - 0 - 0
+spaghetti - [spəˈɡeti] - спагетти - 0 - 0 - 0
+milk - [mɪlk] - молоко - 0 - 0 - 0
+coffee - [ˈkɒfi] - кофе - 0 - 0 - 0
+restaurant - [ˈrestərɒnt] - ресторан - 0 - 0 - 0
+boring - [ˈbɔːrɪŋ] - скучный - 0 - 0 - 0
+different - [ˈdɪfrənt] - разный, другой - 0 - 0 - 0
+normal - [ˈnɔːml] - обычный - 0 - 0 - 0
+strange - [streɪndʒ] - странный - 0 - 0 - 0
+expensive - [ɪkˈspensɪv] - дорогой - 0 - 0 - 0
+much - [mʌtʃ] - много (для неисчисляемых) - 0 - 0 - 0
+a lot - [ə lɒt] - много - 0 - 0 - 0
+many - [ˈmeni] - много (для исчисляемых) - 0 - 0 - 0
+a little - [ə ˈlɪtl] - немного - 0 - 0 - 0
+fry - [fraɪ] - жарить - 0 - 0 - 0
+boil - [bɔɪl] - варить - 0 - 0 - 0
+grill - [ɡrɪl] - готовить на гриле - 0 - 0 - 0
+roast - [rəʊst] - запекать (в духовке, обычно мясо) - 0 - 0 - 0
+bake - [beɪk] - выпекать - 0 - 0 - 0
+salad - [ˈsæləd] - салат - 0 - 0 - 0
+dishes - [dɪʃɪz] - блюда - 0 - 0 - 0
+first - [fɜːst] - сначала - 0 - 0 - 0
+after that - [ˈɑːftə ðæt] - после этого - 0 - 0 - 0
+next - [nekst] - затем - 0 - 0 - 0
+then - [ðen] - потом - 0 - 0 - 0
+finally - [ˈfaɪnəli] - наконец - 0 - 0 - 0

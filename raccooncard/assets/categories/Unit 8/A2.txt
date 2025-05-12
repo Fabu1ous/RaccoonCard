@@ -1,0 +1,45 @@
+sport - [spɔːt] - спорт - 0 - 0 - 0
+do yoga - [duː ˈjəʊɡə] - заниматься йогой - 0 - 0 - 0
+play badminton - [pleɪ ˈbædmɪntən] - играть в бадминтон - 0 - 0 - 0
+ride a bike - [raɪd ə baɪk] - кататься на велосипеде - 0 - 0 - 0
+dance - [dɑːns] - танцевать - 0 - 0 - 0
+skate - [skeɪt] - кататься на коньках - 0 - 0 - 0
+ski - [skiː] - кататься на лыжах - 0 - 0 - 0
+run a marathon - [rʌn ə ˈmærəθən] - пробежать марафон - 0 - 0 - 0
+climb a mountain - [klaɪm ə ˈmaʊntɪn] - взбираться на гору - 0 - 0 - 0
+swim a long way - [swɪm ə lɒŋ weɪ] - проплыть большое расстояние - 0 - 0 - 0
+dance for 24 hours - [dɑːns fɔː ˌtwentiˈfɔːr ˈaʊəz] - танцевать 24 часа - 0 - 0 - 0
+leg - [leɡ] - нога - 0 - 0 - 0
+back - [bæk] - спина - 0 - 0 - 0
+foot - [fʊt] - ступня - 0 - 0 - 0
+head - [hed] - голова - 0 - 0 - 0
+neck - [nek] - шея - 0 - 0 - 0
+stomach - [ˈstʌmək] - живот - 0 - 0 - 0
+arm - [ɑːm] - рука (от плеча до кисти) - 0 - 0 - 0
+hand - [hænd] - кисть руки - 0 - 0 - 0
+finger - [ˈfɪŋɡə] - палец руки - 0 - 0 - 0
+toe - [təʊ] - палец ноги - 0 - 0 - 0
+the matter - [ðə ˈmætə] - дело, проблема - 0 - 0 - 0
+feel well - [fiːl wel] - чувствовать себя хорошо - 0 - 0 - 0
+look well - [lʊk wel] - выглядеть хорошо - 0 - 0 - 0
+feel a bit tired - [fiːl ə bɪt ˈtaɪəd] - чувствовать себя немного уставшим - 0 - 0 - 0
+all right - [ɔːl raɪt] - в порядке - 0 - 0 - 0
+stomach ache - [ˈstʌmək eɪk] - боль в животе - 0 - 0 - 0
+a cold - [ə kəʊld] - простуда - 0 - 0 - 0
+sick - [sɪk] - больной - 0 - 0 - 0
+hungry - [ˈhʌŋɡri] - голодный - 0 - 0 - 0
+ill - [ɪl] - больной - 0 - 0 - 0
+toothache - [ˈtuːθeɪk] - зубная боль - 0 - 0 - 0
+a temperature - [ə ˈtemprətʃə] - температура - 0 - 0 - 0
+playing chess - [ˈpleɪɪŋ tʃes] - играть в шахматы - 0 - 0 - 0
+playing computer games - [ˈpleɪɪŋ kəmˈpjuːtə ɡeɪmz] - играть в компьютерные игры - 0 - 0 - 0
+going dancing - [ˈɡəʊɪŋ ˈdɑːnsɪŋ] - ходить на танцы - 0 - 0 - 0
+looking for interesting insects - [ˈlʊkɪŋ fɔːr ˈɪntrəstɪŋ ˈɪnsekts] - искать интересных насекомых - 0 - 0 - 0
+hiking - [ˈhaɪkɪŋ] - пеший туризм - 0 - 0 - 0
+cycling - [ˈsaɪklɪŋ] - велоспорт - 0 - 0 - 0
+yoga - [ˈjəʊɡə] - йога - 0 - 0 - 0
+dance - [dɑːns] - танец - 0 - 0 - 0
+bike - [baɪk] - велосипед - 0 - 0 - 0
+badminton - [ˈbædmɪntən] - бадминтон - 0 - 0 - 0
+baseball - [ˈbeɪsbɔːl] - бейсбол - 0 - 0 - 0
+ski - [skiː] - лыжи - 0 - 0 - 0

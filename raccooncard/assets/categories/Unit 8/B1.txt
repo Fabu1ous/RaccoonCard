@@ -1,0 +1,89 @@
+art - [ɑːt] - искусство - 0 - 0 - 0
+literature - [ˈlɪt.rə.ʧə] - литература - 0 - 0 - 0
+sport - [spɔːt] - спорт - 0 - 0 - 0
+activity - [ækˈtɪv.ɪ.ti] - активность - 0 - 0 - 0
+leisure - [ˈleʒ.ə] - досуг - 0 - 0 - 0
+culture - [ˈkʌl.ʧə] - культура - 0 - 0 - 0
+TV series - [tiː viː ˈsɪə.riːz] - телесериал - 0 - 0 - 0
+sculpture - [ˈskʌlp.ʧə] - скульптура - 0 - 0 - 0
+photograph - [ˈfəʊ.tə.ɡrɑːf] - фотография - 0 - 0 - 0
+album - [ˈæl.bəm] - альбом - 0 - 0 - 0
+novel - [ˈnɒv.əl] - роман - 0 - 0 - 0
+architecture - [ˈɑː.kɪ.tek.ʧə] - архитектура - 0 - 0 - 0
+painting - [ˈpeɪn.tɪŋ] - картина - 0 - 0 - 0
+classical music - [ˈklæs.ɪ.kəl ˈmjuː.zɪk] - классическая музыка - 0 - 0 - 0
+poem - [ˈpəʊ.ɪm] - стихотворение - 0 - 0 - 0
+film - [fɪlm] - фильм - 0 - 0 - 0
+copies - [ˈkɒp.iz] - копии - 0 - 0 - 0
+notes - [nəʊts] - заметки - 0 - 0 - 0
+well known - [ˌwel ˈnəʊn] - известный - 0 - 0 - 0
+best-selling - [ˌbest ˈsel.ɪŋ] - бестселлер - 0 - 0 - 0
+voted - [ˈvəʊ.tɪd] - голосованный - 0 - 0 - 0
+illegally downloaded - [ɪˈliː.ɡəl.i ˈdaʊn.ləʊd] - незаконно скачанный - 0 - 0 - 0
+set (a story somewhere) - [set ə ˈstɔː.ri ˈsʌm.weə] - поместить (историю где-то) - 0 - 0 - 0
+design (a building) - [dɪˈzaɪn ə ˈbɪl.dɪŋ] - проектировать (здание) - 0 - 0 - 0
+paint (a painting) - [peɪnt ə ˈpeɪn.tɪŋ] - рисовать (картину) - 0 - 0 - 0
+base (a film on a book) - [beɪs ə fɪlm ɒn ə bʊk] - основать (фильм на книге) - 0 - 0 - 0
+perform (a piece of music) - [pəˈfɔːm ə piːs əv ˈmjuː.zɪk] - исполнять (музыкальное произведение) - 0 - 0 - 0
+play (a character) - [pleɪ ə ˈkæ.rɪk.tə] - играть (персонажа) - 0 - 0 - 0
+write (songs, music) - [raɪt (sɒŋz, ˈmjuː.zɪk)] - писать (песни, музыку) - 0 - 0 - 0
+direct (a film, a TV show) - [daɪˈrekt ə fɪlm, ə tiː viː ʃəʊ] - режиссировать (фильм, сериал) - 0 - 0 - 0
+team - [tiːm] - команда - 0 - 0 - 0
+runners - [ˈrʌn.əz] - бегуны - 0 - 0 - 0
+record - [ˈrek.ɔːd] - рекорд - 0 - 0 - 0
+race - [reɪs] - гонка - 0 - 0 - 0
+yoga - [ˈjəʊ.ɡə] - йога - 0 - 0 - 0
+rugby - [ˈrʌɡ.bi] - регби - 0 - 0 - 0
+football - [ˈfʊt.bɔːl] - футбол - 0 - 0 - 0
+lots of traffic - [lɒts əv ˈtræf.ɪk] - пробки, заторы на дорогах - 0 - 0 - 0
+pay back - [peɪ bæk] - возвращать долг - 0 - 0 - 0
+murder - [ˈmɜː.də] - убийство - 0 - 0 - 0
+escape from prison - [ɪˈskeɪp frɒm ˈprɪz.ən] - побег из тюрьмы - 0 - 0 - 0
+murderer - [ˈmɜː.dər.ə] - убийца - 0 - 0 - 0
+fishing boat - [ˈfɪʃ.ɪŋ bəʊt] - рыбацкая лодка - 0 - 0 - 0
+hurricane - [ˈhʌr.ɪ.kən] - ураган - 0 - 0 - 0
+police - [pəˈliːs] - полиция - 0 - 0 - 0
+well written - [ˌwel ˈrɪt.ən] - хорошо написанный - 0 - 0 - 0
+realistic - [ˌrɪəˈlɪs.tɪk] - реалистичный - 0 - 0 - 0
+hard to follow - [hɑːd tuː ˈfɒl.əʊ] - сложный для восприятия - 0 - 0 - 0
+wonderful characters - [ˈwʌn.də.fəl ˈkæ.rɪk.təz] - замечательные персонажи - 0 - 0 - 0
+not brilliant - [nɒt ˈbrɪl.jənt] - не блестящий - 0 - 0 - 0
+not very exciting - [nɒt ˈver.i ɪkˈsaɪ.tɪŋ] - не очень захватывающий - 0 - 0 - 0
+a bit dull - [ə bɪt dʌl] - немного скучный - 0 - 0 - 0
+quite complicated - [kwaɪt ˈkɒm.plɪ.keɪ.tɪd] - довольно сложный - 0 - 0 - 0
+couldn't put the book down - [ˈkʊd.ənt pʊt ðə bʊk daʊn] - не мог оторваться от книги - 0 - 0 - 0
+poem - [ˈpəʊ.ɪm] - стихотворение - 0 - 0 - 0
+concert - [ˈkɒn.sət] - концерт - 0 - 0 - 0
+by far - [baɪ fɑː] - безусловно - 0 - 0 - 0
+by heart - [baɪ hɑːt] - наизусть - 0 - 0 - 0
+by the way - [baɪ ðə weɪ] - кстати - 0 - 0 - 0
+by hand - [baɪ hænd] - вручную - 0 - 0 - 0
+by mistake - [baɪ mɪˈsteɪk] - по ошибке - 0 - 0 - 0
+machine - [məˈʃiːn] - машина - 0 - 0 - 0
+cinema - [ˈsɪn.ə.mə] - кинотеатр - 0 - 0 - 0
+get divorced - [ɡet dɪˈvɔːst] - развестись - 0 - 0 - 0
+get on well - [ɡet ɒn wel] - ладить - 0 - 0 - 0
+get engaged - [ɡet ɪnˈɡeɪʤd] - помолвиться - 0 - 0 - 0
+get in touch - [ɡet ɪn tʌʧ] - связаться - 0 - 0 - 0
+get to know - [ɡet tuː nəʊ] - познакомиться - 0 - 0 - 0
+get together - [ɡet təˈɡeð.ə] - собираться вместе - 0 - 0 - 0
+surfing - [ˈsɜː.fɪŋ] - сёрфинг - 0 - 0 - 0
+snowboarding - [ˈsnəʊ.bɔː.dɪŋ] - сноубординг - 0 - 0 - 0
+golf - [ɡɒlf] - гольф - 0 - 0 - 0
+volleyball - [ˈvɒl.i.bɔːl] - волейбол - 0 - 0 - 0
+skateboarding - [ˈskeɪt.bɔː.dɪŋ] - скейтбординг - 0 - 0 - 0
+rock climbing - [rɒk ˈklaɪ.mɪŋ] - скалолазание - 0 - 0 - 0
+gymnastics - [ʤɪmˈnæs.tɪks] - гимнастика - 0 - 0 - 0
+(Scuba) diving - [ˈskuː.bə ˌdaɪ.vɪŋ] - дайвинг - 0 - 0 - 0
+jogging - [ˈʤɒɡ.ɪŋ] - бег трусцой - 0 - 0 - 0
+windsurfing - [ˈwɪndˌsɜː.fɪŋ] - виндсёрфинг - 0 - 0 - 0
+athletics - [æθˈlet.ɪks] - лёгкая атлетика - 0 - 0 - 0
+ice hockey - [aɪs ˈhɒk.i] - хоккей на льду - 0 - 0 - 0
+squash - [skwɒʃ] - сквош - 0 - 0 - 0
+ice skating - [aɪs ˈskeɪ.tɪŋ] - катание на коньках - 0 - 0 - 0
+relaxing - [rɪˈlæk.sɪŋ] - расслабляющий - 0 - 0 - 0
+exciting - [ɪkˈsaɪ.tɪŋ] - захватывающий - 0 - 0 - 0
+tiring - [ˈtaɪə.rɪŋ] - утомительный - 0 - 0 - 0
+boring - [ˈbɔː.rɪŋ] - скучный - 0 - 0 - 0
+frightening - [ˈfraɪ.tən.ɪŋ] - пугающий - 0 - 0 - 0
+fun - [fʌn] - веселье - 0 - 0 - 0

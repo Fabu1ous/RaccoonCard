@@ -1,0 +1,30 @@
+a chemist - [ə ˈkemɪst] - аптека - 0 - 0 - 0
+a department store - [ə dɪˈpɑːtmənt stɔː] - универмаг - 0 - 0 - 0
+a fast food restaurant - [ə fɑːst fuːd ˈrestrɒnt] - ресторан быстрого питания - 0 - 0 - 0
+a bookshop - [ə ˈbʊkʃɒp] - книжный магазин - 0 - 0 - 0
+a clothes shop - [ə kləʊðz ʃɒp] - магазин одежды - 0 - 0 - 0
+a cafe - [ə ˈkæfeɪ] - кафе - 0 - 0 - 0
+stairs entrance - [steəz ˈentrəns] - лестничный вход - 0 - 0 - 0
+car park - [kɑː pɑːk] - парковка - 0 - 0 - 0
+bus stop - [bʌs stɒp] - автобусная остановка - 0 - 0 - 0
+information desk - [ˌɪnfəˈmeɪʃ(ə)n desk] - справочная стойка - 0 - 0 - 0
+cash machine - [kæʃ məˈʃiːn] - банкомат - 0 - 0 - 0
+socks - [sɒks] - носки - 0 - 0 - 0
+shoes - [ʃuːz] - обувь - 0 - 0 - 0
+scarf - [skɑːf] - шарф - 0 - 0 - 0
+boots - [buːts] - сапоги, ботинки - 0 - 0 - 0
+trousers - [ˈtraʊzəz] - брюки - 0 - 0 - 0
+shirt - [ʃɜːt] - рубашка - 0 - 0 - 0
+gloves - [ɡlʌvz] - перчатки - 0 - 0 - 0
+dress - [dres] - платье - 0 - 0 - 0
+raincoat - [ˈreɪnkəʊt] - дождевик - 0 - 0 - 0
+earrings - [ˈɪərɪŋz] - серьги - 0 - 0 - 0
+jeans - [dʒiːnz] - джинсы - 0 - 0 - 0
+jumper - [ˈdʒʌmpə] - джемпер - 0 - 0 - 0
+size - [saɪz] - размер - 0 - 0 - 0
+colour - [ˈkʌlə] - цвет - 0 - 0 - 0
+save time - [seɪv taɪm] - экономить время - 0 - 0 - 0
+it takes time - [ɪt teɪks taɪm] - это занимает время - 0 - 0 - 0
+spend time - [spend taɪm] - проводить время - 0 - 0 - 0
+find time - [faɪnd taɪm] - найти время - 0 - 0 - 0
+waste time - [weɪst taɪm] - тратить время впустую - 0 - 0 - 0

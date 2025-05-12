@@ -1,0 +1,59 @@
+boat - - [bəʊt] - лодка - 0 - 0 - 0
+plane - - [pleɪn] - самолёт - 0 - 0 - 0
+car - [kɑːr] - машина - 0 - 0 - 0
+scooter - [ˈskuːtə] - самокат, мотороллер - 0 - 0 - 0
+tram - [træm] - трамвай - 0 - 0 - 0
+ship - [ʃɪp] - корабль - 0 - 0 - 0
+helicopter - [ˈhelɪkɒptə] - вертолёт - 0 - 0 - 0
+coach - [kəʊtʃ] - туристический автобус - 0 - 0 - 0
+ferry - [ˈferi] - паром - 0 - 0 - 0
+train - [treɪn] - поезд - 0 - 0 - 0
+people - [ˈpiːpl] - люди - 0 - 0 - 0
+often - [ˈɒfn] - часто - 0 - 0 - 0
+normally - [ˈnɔːməli] - обычно - 0 - 0 - 0
+unusual - [ʌnˈjuːʒuəl] - необычный - 0 - 0 - 0
+negative - [ˈneɡətɪv] - отрицательный - 0 - 0 - 0
+go by car - [ɡəʊ baɪ kɑːr] - ехать на машине - 0 - 0 - 0
+cycle - [ˈsaɪkl] - ездить на велосипеде - 0 - 0 - 0
+walk - [wɔːk] - ходить пешком - 0 - 0 - 0
+fast - [fɑːst] - быстрый - 0 - 0 - 0
+slow - [sləʊ] - медленный - 0 - 0 - 0
+dangerous - [ˈdeɪndʒərəs] - опасный - 0 - 0 - 0
+empty - [ˈempti] - пустой - 0 - 0 - 0
+comfortable - [ˈkʌmf(ə)təbl] - удобный - 0 - 0 - 0
+expensive - [ɪkˈspensɪv] - дорогой - 0 - 0 - 0
+dirty - [ˈdɜːti] - грязный - 0 - 0 - 0
+That’s all right - [ðæts ɔːl raɪt] - Всё в порядке - 0 - 0 - 0
+That’s OK - [ðæts əʊˈkeɪ] - Всё нормально - 0 - 0 - 0
+No problem - [nəʊ ˈprɒbləm] - Без проблем - 0 - 0 - 0
+Excuse me, please - [ɪkˈskjuːz miː pliːz] - Извините, пожалуйста - 0 - 0 - 0
+It doesn’t matter - [ɪt ˈdʌznt ˈmætə] - Не имеет значения - 0 - 0 - 0
+Don’t worry - [dəʊnt ˈwʌri] - Не волнуйтесь - 0 - 0 - 0
+I’m sorry - [aɪm ˈsɒri] - Простите - 0 - 0 - 0
+great - [ɡreɪt] - великолепно - 0 - 0 - 0
+really - [ˈrɪəli] - действительно - 0 - 0 - 0
+enjoys gardening - [ɪnˈdʒɔɪz ˈɡɑːdnɪŋ] - любит садоводство - 0 - 0 - 0
+likes watching sport - [laɪks ˈwɒtʃɪŋ spɔːt] - любит смотреть спорт - 0 - 0 - 0
+likes listening to music - [laɪks ˈlɪsnɪŋ tuː ˈmjuːzɪk] - любит слушать музыку - 0 - 0 - 0
+wants to play rugby - [wɒnts tuː pleɪ ˈrʌɡbi] - хочет играть в регби - 0 - 0 - 0
+loves going to the beach - [lʌvz ˈɡəʊɪŋ tuː ðə biːtʃ] - любит ходить на пляж - 0 - 0 - 0
+wants to study hard - [wɒnts tuː ˈstʌdi hɑːd] - хочет усердно учиться - 0 - 0 - 0
+likes playing football - [laɪks ˈpleɪɪŋ ˈfʊtbɔːl] - любит играть в футбол - 0 - 0 - 0
+wants to have fun - [wɒnts tuː hæv fʌn] - хочет повеселиться - 0 - 0 - 0
+after - [ˈɑːftə] - после - 0 - 0 - 0
+beginning - [bɪˈɡɪnɪŋ] - начало - 0 - 0 - 0
+while - [waɪl] - в то время как - 0 - 0 - 0
+get a phone call - [ɡet ə fəʊn kɔːl] - получить телефонный звонок - 0 - 0 - 0
+get a taxi - [ɡet ə ˈtæksi] - взять такси - 0 - 0 - 0
+get an email - [ɡet ən ˈiːmeɪl] - получить электронное письмо - 0 - 0 - 0
+get old - [ɡet əʊld] - стареть - 0 - 0 - 0
+get better - [ɡet ˈbetə] - поправляться, становиться лучше - 0 - 0 - 0
+get to the airport - [ɡet tuː ði ˈeəpɔːt] - добраться до аэропорта - 0 - 0 - 0
+get a glass of water - [ɡet ə ɡlɑːs əv ˈwɔːtə] - налить стакан воды - 0 - 0 - 0
+get the train - [ɡet ðə treɪn] - сесть на поезд - 0 - 0 - 0
+get to school - [ɡet tuː skuːl] - добраться до школы - 0 - 0 - 0
+get angry - [ɡet ˈæŋɡri] - разозлиться - 0 - 0 - 0
+get to work - [ɡet tuː wɜːk] - добраться до работы - 0 - 0 - 0
+get a letter - [ɡet ə ˈletə] - получить письмо - 0 - 0 - 0
+get your coat - [ɡet jɔː kəʊt] - взять своё пальто - 0 - 0 - 0
+get the bus - [ɡet ðə bʌs] - сесть на автобус - 0 - 0 - 0

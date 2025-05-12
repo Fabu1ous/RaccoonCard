@@ -1,0 +1,79 @@
+career - [kəˈrɪə] - карьера - 0 - 0 - 0
+offer - [ˈɒfə] - предложение - 0 - 0 - 0
+suggestion - [səˈdʒesʧən] - предложение - 0 - 0 - 0
+application - [ˌæplɪˈkeɪʃən] - заявление - 0 - 0 - 0
+job - [dʒɒb] - работа - 0 - 0 - 0
+banker - [ˈbæŋkə] - банкир - 0 - 0 - 0
+gardener - [ˈɡɑːdnə] - садовник - 0 - 0 - 0
+hairdresser - [ˈheəˌdresə] - парикмахер - 0 - 0 - 0
+nurse - [nɜːs] - медсестра - 0 - 0 - 0
+accountant - [əˈkaʊntənt] - бухгалтер - 0 - 0 - 0
+plumber - [ˈplʌmə] - сантехник - 0 - 0 - 0
+scientist - [ˈsaɪəntɪst] - ученый - 0 - 0 - 0
+doctor - [ˈdɒktə] - врач - 0 - 0 - 0
+dentist - [ˈdentɪst] - дантист - 0 - 0 - 0
+lawyer - [ˈlɔːjə] - юрист - 0 - 0 - 0
+teacher - [ˈtiːʧə] - учитель - 0 - 0 - 0
+electrician - [ɪˌlekˈtrɪʃən] - электрик - 0 - 0 - 0
+IT worker - [aɪ tiː ˈwɜːkə] - IT-работник, программист - 0 - 0 - 0
+colleague - [ˈkɒliːɡ] - коллега - 0 - 0 - 0
+self-employed - [ˌself ɪmˈplɔɪd] - самозанятый - 0 - 0 - 0
+office - [ˈɒfɪs] - офис - 0 - 0 - 0
+restaurant - [ˈrestrɒnt] - ресторан - 0 - 0 - 0
+bank - [bæŋk] - банк - 0 - 0 - 0
+qualification - [ˌkwɒlɪfɪˈkeɪʃən]  - квалификация - 0 - 0 - 0
+experience - [ɪkˈspɪərɪəns] - опыт - 0 - 0 - 0
+ability - [əˈbɪlɪti] - способность - 0 - 0 - 0
+engineer - [ˌenʤɪˈnɪə] - инженер - 0 - 0 - 0
+police officer - [pəˈliːs ˈɒfɪsə] - полицейский - 0 - 0 - 0
+receptionist - [rɪˈsepʃənɪst] - администратор - 0 - 0 - 0
+secretary - [ˈsekrətri] - секретарь - 0 - 0 - 0
+pilot - [ˈpaɪlət] - пилот - 0 - 0 - 0
+earn - [ɜːn] - зарабатывать - 0 - 0 - 0
+salary - [ˈsæləri] - зарплата - 0 - 0 - 0
+degree - [dɪˈɡriː] - степень - 0 - 0 - 0
+job interview - [dʒɒb ˈɪntəvjuː] - собеседование - 0 - 0 - 0
+computer programmer - [kəmˈpjuːtə ˈprəʊɡræmə] - программист - 0 - 0 - 0
+carer - [ˈkeərə] - сиделка - 0 - 0 - 0
+shop assistant - [ʃɒp əˈsɪstənt] - продавец - 0 - 0 - 0
+postman - [ˈpəʊstmən] - почтальон - 0 - 0 - 0
+builder - [ˈbɪldə] - строитель - 0 - 0 - 0
+musician - [mjuːˈzɪʃən] - музыкант - 0 - 0 - 0
+politician - [ˌpɒlɪˈtɪʃən] - политик - 0 - 0 - 0
+question - [ˈkwestʃən] - вопрос - 0 - 0 - 0
+information - [ˌɪnfəˈmeɪʃən] - информация - 0 - 0 - 0
+machine - [məˈʃiːn] - машина - 0 - 0 - 0
+change - [ʧeɪnʤ] - изменение - 0 - 0 - 0
+online shopping - [ˌɒnlaɪn ˈʃɒpɪŋ] - онлайн-шопинг - 0 - 0 - 0
+sending emails - [ˈsendɪŋ ˈiːmeɪlz] - отправка писем - 0 - 0 - 0
+digital photos - [ˈdɪʤɪtl ˈfəʊtəʊz] - цифровые фото - 0 - 0 - 0
+3D printers - [θriː diː ˈprɪntəz] - 3D-принтеры - 0 - 0 - 0
+environmental problems - [ɪnˌvaɪrənˈmentl ˈprɒbləmz] - экологические проблемы - 0 - 0 - 0
+living longer - [ˈlɪvɪŋ ˈlɒŋɡə] - долголетие - 0 - 0 - 0
+studying online - [ˈstʌdiɪŋ ˈɒnlaɪn] - онлайн-обучение - 0 - 0 - 0
+post office - [pəʊst ˈɒfɪs] - почтовое отделение - 0 - 0 - 0
+staff - [stɑːf] - персонал - 0 - 0 - 0
+environmental protection officer - [ɪnˌvaɪrənˈmentl prəˈtekʃən ˈɒfɪsə] - инспектор по охране окружающей среды - 0 - 0 - 0
+online education manager - [ˈɒnlaɪn ˌedʒʊˈkeɪʃən ˈmænɪʤə] - менеджер онлайн-образования - 0 - 0 - 0
+actor - [ˈæktə] - актер - 0 - 0 - 0
+order - [ˈɔːdə] - заказ - 0 - 0 - 0
+rubbish - [ˈrʌbɪʃ] - мусор - 0 - 0 - 0
+taxi - [ˈtæksi] - такси - 0 - 0 - 0
+book - [bʊk] - бронировать - 0 - 0 - 0
+meeting room - [ˈmiːtɪŋ ruːm] - переговорная - 0 - 0 - 0
+hotel - [həʊˈtel] - отель - 0 - 0 - 0
+company - [ˈkʌmpəni] - компания - 0 - 0 - 0
+invitation - [ˌɪnvɪˈteɪʃən] - приглашение - 0 - 0 - 0
+party - [ˈpɑːti] - вечеринка - 0 - 0 - 0
+supermarket - [ˈsuːpəˌmɑːkɪt] - супермаркет - 0 - 0 - 0
+cafe - [ˈkæfeɪ] - кафе - 0 - 0 - 0
+barista - [bəˈriːstə] - бариста - 0 - 0 - 0
+pay - [peɪ] - платить - 0 - 0 - 0
+sales assistant - [seɪlz əˈsɪstənt] - продавец - 0 - 0 - 0
+mobile phone - [ˈməʊbaɪl fəʊn] - мобильный телефон - 0 - 0 - 0
+superstore - [ˈsuːpəstɔː] - супермаркет - 0 - 0 - 0
+document - [ˈdɒkjʊmənt] - документ - 0 - 0 - 0
+bookshop - [ˈbʊkʃɒp] - книжный магазин - 0 - 0 - 0
+CV - [siː viː] - резюме - 0 - 0 - 0
+clothes shop - [kləʊðz ʃɒp] - магазин одежды - 0 - 0 - 0
+social media - [ˈsəʊʃəl ˈmiːdiə] - социальные сети - 0 - 0 - 0

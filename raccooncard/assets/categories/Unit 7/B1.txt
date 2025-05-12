@@ -1,0 +1,56 @@
+change - [ʧeɪnʤ] - изменение - 0 - 0 - 0
+doctor - [ˈdɒk.tə] - врач - 0 - 0 - 0
+achievement - [əˈʧiːv.mənt] - достижение - 0 - 0 - 0
+start a family - [stɑːt ə ˈfæm.ə.li] - создать семью - 0 - 0 - 0
+body - [ˈbɒd.i] - тело - 0 - 0 - 0
+become a celebrity - [bɪˈkʌm ə səˈleb.rɪ.ti] - стать знаменитостью - 0 - 0 - 0
+make a film - [meɪk ə fɪlm] - снять фильм - 0 - 0 - 0
+life-changing novel - [ˈlaɪfˌʧeɪn.ʤɪŋ ˈnɒv.əl] - роман, меняющий жизнь - 0 - 0 - 0
+get a job - [ɡet ə dʒɒb] - получить работу - 0 - 0 - 0
+get an offer - [ɡet ən ˈɒf.ə] - получить предложение - 0 - 0 - 0
+get paid - [ɡet peɪd] - получать оплату - 0 - 0 - 0
+get rich - [ɡet rɪʧ] - разбогатеть - 0 - 0 - 0
+football club - [ˈfʊt.bɔːl klʌb] - футбольный клуб - 0 - 0 - 0
+get a place at university - [ɡet ə pleɪs æt ˌjuː.nɪˈvɜː.sɪ.ti] - поступить в университет - 0 - 0 - 0
+get engaged - [ɡet ɪnˈɡeɪʤd] - помолвиться - 0 - 0 - 0
+get married - [ɡet ˈmær.id] - пожениться - 0 - 0 - 0
+have children - [hæv ˈʧɪl.drən] - иметь детей - 0 - 0 - 0
+get old - [ɡet əʊld] - стареть - 0 - 0 - 0
+shopping - [ˈʃɒp.ɪŋ] - шопинг - 0 - 0 - 0
+exercise - [ˈek.sə.saɪz] - упражнения - 0 - 0 - 0
+eat a healthy diet - [iːt ə ˈhel.θi ˈdaɪ.ət] - придерживаться здорового питания - 0 - 0 - 0
+on a diet - [ɒn ə ˈdaɪ.ət] - на диете - 0 - 0 - 0
+keep in shape - [kiːp ɪn ʃeɪp] - поддерживать форму - 0 - 0 - 0
+lose weight - [luːz weɪt] - похудеть - 0 - 0 - 0
+get fit - [ɡet fɪt] - стать в форме - 0 - 0 - 0
+put on weight - [pʊt ɒn weɪt] - набрать вес - 0 - 0 - 0
+have allergies - [hæv ˈæl.ə.dʒiz] - иметь аллергию - 0 - 0 - 0
+to be overweight - [tuː biː ˌəʊ.vəˈweɪt] - иметь лишний вес - 0 - 0 - 0
+regular smoker - [ˈreɡ.jə.lə ˈsməʊ.kə] - заядлый курильщик - 0 - 0 - 0
+give up smoking - [ɡɪv ʌp ˈsməʊ.kɪŋ] - бросить курить - 0 - 0 - 0
+suffer - [ˈsʌf.ə] - страдать - 0 - 0 - 0
+backache - [ˈbæk.eɪk] - боль в спине - 0 - 0 - 0
+a cold - [ə kəʊld] - простуда - 0 - 0 - 0
+a temperature - [ə ˈtem.prə.ʧə] - температура - 0 - 0 - 0
+a broken leg - [ə ˈbrəʊ.kən leɡ] - сломанная нога - 0 - 0 - 0
+a serious stomachache - [ə ˈsɪə.ri.əs ˈstʌm.ək.eɪk] - сильная боль в животе - 0 - 0 - 0
+the flu - [ðə fluː] - грипп - 0 - 0 - 0
+a rash - [ə ræʃ] - сыпь - 0 - 0 - 0
+get a prescription from a doctor - [ɡet ə prɪˈskrɪp.ʃən frɒm ə ˈdɒk.tə] - получить рецепт у врача - 0 - 0 - 0
+take pills or other medicine - [teɪk pɪlz ɔːr ˈʌð.ə ˈmed.ɪ.sən] - принимать таблетки или лекарства - 0 - 0 - 0
+have some tests - [hæv sʌm tests] - пройти анализы - 0 - 0 - 0
+go to the hospital - [ɡəʊ tuː ðə ˈhɒs.pɪ.təl] - пойти в больницу - 0 - 0 - 0
+go to the chemist's - [ɡəʊ tuː ðə ˈkem.ɪsts] - пойти в аптеку - 0 - 0 - 0
+have an operation - [hæv ən ˌɒp.əˈreɪ.ʃən] - сделать операцию - 0 - 0 - 0
+put on cream - [pʊt ɒn kriːm] - нанести крем - 0 - 0 - 0
+painful - [ˈpeɪn.fəl] - болезненный - 0 - 0 - 0
+get to sleep - [ɡet tuː sliːp] - заснуть - 0 - 0 - 0
+exhausted - [ɪɡˈzɔː.stɪd] - истощённый - 0 - 0 - 0
+itchy - [ˈɪtʃ.i] - зудящий - 0 - 0 - 0
+sick - [sɪk] - больной - 0 - 0 - 0
+uncomfortable - [ʌnˈkʌm.fə.tə.bl̩] - неудобный - 0 - 0 - 0
+concentrate - [ˈkɒn.sən.treɪt] - концентрироваться - 0 - 0 - 0
+terrible - [ˈter.ə.bl̩] - ужасный - 0 - 0 - 0
+bad habits - [bæd ˈhæb.ɪts] - вредные привычки - 0 - 0 - 0
+relationships - [rɪˈleɪ.ʃən.ʃɪps] - отношения - 0 - 0 - 0
+fast food - [fɑːst fuːd] - фастфуд - 0 - 0 - 0

@@ -1,0 +1,113 @@
+name: raccooncard
+description: "A Flutter application for learning English words with Raccoon Card"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  flutter_speed_dial: ^6.1.0
+  path_provider: ^2.0.11
+  excel: ^2.0.2
+  shared_preferences: ^2.2.2
+  provider: ^6.1.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  build_runner: ^2.4.6
+  flutter_launcher_icons: ^0.13.1
+  flutter_native_splash: ^2.3.6
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
+    - assets/verbs.txt
+    - assets/categories.txt
+    - assets/categories/
+    - assets/categories/Unit 1/
+    - assets/categories/Unit 1/A2.txt
+    - assets/categories/Unit 1/B1plus.txt
+    - assets/categories/Unit 2/
+    - assets/categories/Unit 2/A2.txt
+    - assets/categories/Unit 3/
+    - assets/categories/Unit 3/A2.txt
+    - assets/categories/Unit 4/
+    - assets/categories/Unit 4/A2.txt
+    - assets/categories/Unit 5/
+    - assets/categories/Unit 5/A2.txt
+    - assets/categories/Unit 6/
+    - assets/categories/Unit 6/A2.txt
+    - assets/categories/Unit 7/
+    - assets/categories/Unit 7/A2.txt
+    - assets/categories/Unit 8/
+    - assets/categories/Unit 8/A2.txt
+    - assets/categories/Unit 9/
+    - assets/categories/Unit 9/A2.txt
+    - assets/categories/Unit 10/
+    - assets/categories/Unit 10/A2.txt
+    - assets/categories/Unit 11/
+    - assets/categories/Unit 11/A2.txt
+    - assets/categories/Unit 12/
+    - assets/categories/Unit 12/A2.txt
+  fonts:
+    - family: Pacifico
+      fonts:
+        - asset: assets/fonts/Pacifico.ttf
+
+# Конфигурация иконок приложения
+flutter_launcher_icons:
+  android: true  # используем true вместо "launcher_icon" для стандартных иконок
+  ios: true
+  image_path: "assets/icon/app_icon.png"
+  min_sdk_android: 21 # android min sdk min:16, default 21
+  adaptive_icon_background: "#000000"  # черный фон
+  adaptive_icon_foreground: "assets/icon/adaptive_foreground.png"  # используем подготовленный передний план
+  remove_alpha_ios: true
+  web:
+    generate: true
+    image_path: "assets/icon/app_icon.png"
+  windows:
+    generate: true
+    image_path: "assets/icon/app_icon.png"
+    icon_size: 256 # увеличенный размер для Windows
+  macos:
+    generate: true
+    image_path: "assets/icon/app_icon.png"
+
+# Конфигурация загрузочного экрана
+flutter_native_splash:
+  # Фоновый цвет - черный
+  color: "#000000"
+  
+  # Уменьшенное изображение для загрузочного экрана
+  image: assets/splash/splash_icon.png
+  
+  # Расположение и режим отображения
+  android_gravity: center
+  ios_content_mode: center
+  
+  # Текст "Loading..."
+  branding: assets/splash/loading_text.png
+  branding_mode: bottom
+  
+  # Настройки для тёмного режима
+  color_dark: "#000000"
+  image_dark: assets/splash/splash_icon.png
+  
+  # Настройки для Android 12
+  android_12:
+    image: assets/splash/splash_icon.png
+    icon_background_color: "#000000"
+    branding: assets/splash/loading_text.png
+  
+  # Платформы, для которых нужно создать загрузочный экран
+  web: true
+  android: true
+  ios: true
